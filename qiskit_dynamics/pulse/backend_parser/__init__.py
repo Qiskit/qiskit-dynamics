@@ -1,6 +1,8 @@
+# -*- coding: utf-8 -*-
+
 # This code is part of Qiskit.
 #
-# (C) Copyright IBM 2020.
+# (C) Copyright IBM 2022.
 #
 # This code is licensed under the Apache License, Version 2.0. You may
 # obtain a copy of this license in the LICENSE.txt file in the root directory
@@ -11,5 +13,7 @@
 # that they have been altered from the originals.
 
 """
-Qiskit Dynamics tests
+String model parser functionality.
+
+This module is meant for internal use and may be changed at any point.
 """
